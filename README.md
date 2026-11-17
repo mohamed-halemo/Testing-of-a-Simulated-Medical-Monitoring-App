@@ -1,6 +1,6 @@
 # Testing of a Simulated Medical Monitoring App
 
-Tutorial material for a software testing course: a simulated patient-monitoring device that reads biosignals, logs them, raises alerts, and calls an emergency service when readings go out of range.
+Tutorial material: a simulated patient-monitoring device that reads biosignals, logs them, raises alerts, and calls an emergency service when readings go out of range.
 
 ## Structure
 
