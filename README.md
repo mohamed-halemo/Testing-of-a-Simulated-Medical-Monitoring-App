@@ -1,6 +1,6 @@
 # Testing of a Simulated Medical Monitoring App
 
-A simulated patient-monitoring device built for a software testing course: it reads biosignals, logs them, raises alerts, and calls an emergency service when readings go out of range.
+Tutorial material for a software testing course: a simulated patient-monitoring device that reads biosignals, logs them, raises alerts, and calls an emergency service when readings go out of range.
 
 ## Structure
 
@@ -11,7 +11,7 @@ medical_monitoring_app/
   app/data_logger.py          logs readings to biosignal_logs.json
   app/emergency_service.py    alerts (alerts.json)
   app/monitoring_workflow.py  the full monitoring loop
-  Requirements.pdf            the assignment requirements
+  Requirements.pdf            the tutorial requirements
 ```
 
-The course requirements are in `medical_monitoring_app/Requirements.pdf`.
+The tutorial requirements are in `medical_monitoring_app/Requirements.pdf`.
